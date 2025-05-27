@@ -8,7 +8,7 @@
 
 ## 🔍 About the Project
 
-Synthetic data enables safe data sharing in regulated domains, such as healthcare and finance. However, generating high-quality synthetic datasets that meet privacy and utility goals is non-trivial. SynthGuard addresses this by offering:
+Synthetic data enables safe data sharing in regulated domains such as healthcare and finance. However, generating high-quality synthetic datasets that meet privacy and utility goals is non-trivial. SynthGuard addresses this by offering:
 
 - A **Kubernetes-native workflow framework** for synthetic data generation.
 - A **Python library** for data preprocessing, synthesis, evaluation, and privacy risk assessment.
@@ -22,7 +22,7 @@ SynthGuard has been developed and validated in real-world EU-funded projects.
 
 This organization hosts two core repositories:
 
-### [`synthguard-framework`](https://github.com/your-org/synthguard-framework)
+### [`synthguard-framework`](https://github.com/SynthGuard/synthguard-framework)
 
 A complete orchestration framework to define, deploy, and manage synthetic data generation workflows.
 
@@ -32,11 +32,11 @@ A complete orchestration framework to define, deploy, and manage synthetic data 
 - ☁️ Integration with **Kubeflow Pipelines** for scalable execution.
 - 🐳 Containerized with Docker and deployable using Nix & Minikube.
 
-➡️ [View Framework Documentation]([https://github.com/your-org/synthguard-framework](https://github.com/SynthGuard/synthguard-framework))
+➡️ **[View Framework Documentation »](https://github.com/SynthGuard/synthguard-framework)**
 
 ---
 
-### [`synthguard-library`](https://github.com/your-org/synthguard-library)
+### [`synthguard-library`](https://github.com/SynthGuard/synthguard-library)
 
 A Python library providing core functionalities for preprocessing, synthetic data generation, data quality evaluation, and privacy risk analysis.
 
@@ -48,9 +48,38 @@ A Python library providing core functionalities for preprocessing, synthetic dat
 - 🔐 Privacy risk evaluation (identity & attribute disclosure).
 - 🧰 Utility functions for data handling, validation, and logging.
 
-➡️ [View Library Documentation]([https://github.com/your-org/synthguard-library](https://github.com/SynthGuard/synthguard-library))
+➡️ **[View Library Documentation »](https://github.com/SynthGuard/synthguard-library)**
+
+---
+
+## 🏛 Acknowledgements
+
+### TEADAL  
+<img src="https://teadal.eu/wp-content/uploads/sites/84/2022/08/TEADAL_rgb_logo_extended.png" alt="TEADAL Logo" height="50" />
+
+The TEADAL (Trustworthy, Energy-Aware federated DAta Lakes along the computing continuum) project is funded by the EU’s Horizon Europe program under Grant Agreement number 101070186.
+
+> Views and opinions expressed are those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them. This work also received funding from the Swiss State Secretariat for Education, Research and Innovation (SERI).
+
+---
+
+### LAGO  
+<img src="https://lago-europe.eu/themes/custom/lago_theme/lago_theme/logo.svg" alt="LAGO Logo" height="50" />
+
+Funded under Grant Agreement number 101073951.
+
+> Views and opinions expressed are those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+
+---
+
+### EXAI  
+<img src="https://exai.ee/wp-content/uploads/2024/05/EXAI-logo-eng.svg" alt="EXAI Logo" height="50" />
+
+The EXAI project is funded by the Estonian Ministry of Education and Research.
+
+---
 
 ## 📄 License
 
-This project is licensed. 
-📄 [View License](https://github.com/SynthGuard/synthguard-library/blob/main/LICENSE.md)
+This project is licensed under the terms specified in the license file.  
+📜 **[View License »](https://github.com/SynthGuard/synthguard-library/blob/main/LICENSE.md)**
