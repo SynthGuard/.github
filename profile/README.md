@@ -68,10 +68,8 @@ A Python library providing core functionalities for preprocessing, synthetic dat
 
 ---
 
-### EXAI  
-<div style="background-color:#202768; display:inline-block; padding:5px;">
-  <img src="https://exai.ee/wp-content/uploads/2024/05/EXAI-logo-eng.svg" alt="EXAI Logo" height="50" />
-</div>
+### EXAI
+<img src="./EXAI-logo-eng.png" alt="EXAI Logo" height="50" />
 
 > The EXAI (Estonian Centre of Excellence in AI) project is funded by the Estonian Ministry of Education and Research.
 
