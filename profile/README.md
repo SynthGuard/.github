@@ -54,26 +54,24 @@ A Python library providing core functionalities for preprocessing, synthetic dat
 
 ## 🏛 Acknowledgements
 
-### TEADAL  
-<img src="https://teadal.eu/wp-content/uploads/sites/84/2022/08/TEADAL_rgb_logo_extended.png" alt="TEADAL Logo" height="50" />
-
-> The TEADAL (Trustworthy, Energy-Aware federated DAta Lakes along the computing continuum) project is funded by the EU’s Horizon Europe program under Grant Agreement number 101070186. Views and opinions expressed are those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them. This work also received funding from the Swiss State Secretariat for Education, Research and Innovation (SERI).
-
----
-
-### LAGO  
-<img src="https://lago-europe.eu/themes/custom/lago_theme/lago_theme/logo.svg" alt="LAGO Logo" height="50" />
-
-> The LAGO ("Lessen Data Access and Governance Obstacles") project is funded by the EU's Horizon Europe program under Grant Agreement number 101073951. Views and opinions expressed are those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
-
----
-
 ### EXAI
 <img src="./EXAI-logo-eng.png" alt="EXAI Logo" height="50" />
 
 > The EXAI (Estonian Centre of Excellence in AI) project is funded by the Estonian Ministry of Education and Research.
 
----
+### TEADAL  
+<img src="https://teadal.eu/wp-content/uploads/sites/84/2022/08/TEADAL_rgb_logo_extended.png" alt="TEADAL Logo" height="50" />
+
+<img src="https://european-union.europa.eu/themes/contrib/oe_theme/dist/eu/images/logo/standard-version/positive/logo-eu--en.svg" alt="EU Logo" height="50" >
+
+> The TEADAL (Trustworthy, Energy-Aware federated DAta Lakes along the computing continuum) project is funded by the EU’s Horizon Europe program under Grant Agreement number 101070186. Views and opinions expressed are those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them. This work also received funding from the Swiss State Secretariat for Education, Research and Innovation (SERI).
+
+### LAGO  
+<img src="https://lago-europe.eu/themes/custom/lago_theme/lago_theme/logo.svg" alt="LAGO Logo" height="50" />
+
+<img src="https://european-union.europa.eu/themes/contrib/oe_theme/dist/eu/images/logo/standard-version/positive/logo-eu--en.svg" alt="EU Logo" height="50" >
+
+> The LAGO ("Lessen Data Access and Governance Obstacles") project is funded by the EU's Horizon Europe program under Grant Agreement number 101073951. Views and opinions expressed are those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
 
 ## 📄 License
 
