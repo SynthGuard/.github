@@ -75,7 +75,7 @@ A Python library providing core functionalities for preprocessing, synthetic dat
 
 ## 🗃️ Assets
 
-🖼️ **[View SynthGuard Logos »](https://github.com/SynthGuard/.github/assets)**
+🖼️ **[View SynthGuard Logos »](https://github.com/SynthGuard/.github/tree/main/assets)**
 
 ## 📄 License
 
