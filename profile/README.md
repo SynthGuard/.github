@@ -32,7 +32,7 @@ A complete orchestration framework to define, deploy, and manage synthetic data 
 - ☁️ Integration with **Kubeflow Pipelines** for scalable execution.
 - 🐳 Containerized with Docker and deployable using Nix & Minikube.
 
-➡️ **[View Framework Documentation »](https://github.com/SynthGuard/synthguard-framework)**
+➡️ **[View Framework Documentation »](https://github.com/SynthGuard/synthguard-framework/blob/main/README.md)**
 
 ---
 
@@ -45,10 +45,10 @@ A Python library providing core functionalities for preprocessing, synthetic dat
 - 🔄 Data preprocessing and metadata extraction.
 - 🧪 Synthetic data generation using multiple strategies (e.g., realistic, hybrid).
 - 📊 Data quality assessment with SDV metrics and visualization.
-- 🔐 Privacy risk evaluation (identity & attribute disclosure).
+- 🔐 Privacy risk evaluation (identimages emoji ity & attribute disclosure).
 - 🧰 Utility functions for data handling, validation, and logging.
 
-➡️ **[View Library Documentation »](https://github.com/SynthGuard/synthguard-library)**
+➡️ **[View Library Documentation »](https://github.com/SynthGuard/synthguard-library/blob/main/README.md)**
 
 ---
 
@@ -72,6 +72,10 @@ A Python library providing core functionalities for preprocessing, synthetic dat
 <img src="https://european-union.europa.eu/themes/contrib/oe_theme/dist/eu/images/logo/standard-version/positive/logo-eu--en.svg" alt="EU Logo" height="50" >
 
 > The LAGO ("Lessen Data Access and Governance Obstacles") project is funded by the EU's Horizon Europe program under Grant Agreement number 101073951. Views and opinions expressed are those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+
+## 🗃️ Assets
+
+🖼️ **[View SynthGuard Logos »](https://github.com/SynthGuard/.github/assets)**
 
 ## 📄 License
 
