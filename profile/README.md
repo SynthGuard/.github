@@ -43,9 +43,9 @@ A Python library providing core functionalities for preprocessing, synthetic dat
 **Features:**
 
 - 🔄 Data preprocessing and metadata extraction.
-- 🧪 Synthetic data generation using multiple strategies (e.g., realistic, hybrid).
+- 🧪 Synthetic data generation using multiple strategies (e.g., realistic, rule-based).
 - 📊 Data quality assessment with SDV metrics and visualization.
-- 🔐 Privacy risk evaluation (identimages emoji ity & attribute disclosure).
+- 🔐 Privacy risk evaluation (re-idendtification & attribute disclosure).
 - 🧰 Utility functions for data handling, validation, and logging.
 
 ➡️ **[View Library Documentation »](https://github.com/SynthGuard/synthguard-library/blob/main/README.md)**
