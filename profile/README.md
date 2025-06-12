@@ -73,6 +73,16 @@ A Python library providing core functionalities for preprocessing, synthetic dat
 
 > The LAGO ("Lessen Data Access and Governance Obstacles") project is funded by the EU's Horizon Europe program under Grant Agreement number 101073951. Views and opinions expressed are those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
 
+## 🎓 Related Work
+
+### "SynthGuard: Scalable and Privacy-Preserving Synthetic Data Generation Workflow Framework"
+
+Author: Kristian Tamm
+
+University of Tartu, 2025
+
+[Link](https://thesis.cs.ut.ee/a9e39a52-8933-4eff-afbc-113f0e2c8dc2)
+
 ## 🗃️ Assets
 
 🖼️ **[View SynthGuard Logos »](https://github.com/SynthGuard/.github/tree/main/assets)**
