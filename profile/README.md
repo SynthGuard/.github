@@ -83,6 +83,15 @@ University of Tartu, 2025
 
 [Link](https://thesis.cs.ut.ee/a9e39a52-8933-4eff-afbc-113f0e2c8dc2)
 
+
+### "SynthGuard: Redefining Synthetic Data Generation with a Scalable and Privacy-Preserving"
+
+Authors: Eduardo Brito, Mahmoud Shoush, Kristian Tamm, Paula Etti, Liina Kamm
+
+International Conference on Availability, Reliability and Security 2025
+
+[Link](https://link.springer.com/content/pdf/10.1007/978-3-032-00633-2_12.pdf)
+
 ## 🗃️ Assets
 
 🖼️ **[View SynthGuard Logos »](https://github.com/SynthGuard/.github/tree/main/assets)**
